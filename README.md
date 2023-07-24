@@ -1,6 +1,6 @@
 ```
-LAB - Class 32
-Project: snacks_API
+LAB - Class 31
+Project: Django REST Framework & Docker
 Author: Mo'ath shakhatreh
 
 
